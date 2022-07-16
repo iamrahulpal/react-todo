@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thisisrahulpal/react-todo/static/css/main.31cd00b7.css",
+    "main.js": "/thisisrahulpal/react-todo/static/js/main.3bb496e0.js",
+    "index.html": "/thisisrahulpal/react-todo/index.html",
+    "main.31cd00b7.css.map": "/thisisrahulpal/react-todo/static/css/main.31cd00b7.css.map",
+    "main.3bb496e0.js.map": "/thisisrahulpal/react-todo/static/js/main.3bb496e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.3bb496e0.js"
+  ]
+}
